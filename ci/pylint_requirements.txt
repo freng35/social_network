@@ -1,0 +1,7 @@
+pylint
+pylint-django
+pylint-json2html
+colorama
+argparse
+configparser
+anybadge==1.7.0
